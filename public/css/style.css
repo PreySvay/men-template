@@ -1,0 +1,10 @@
+.content {
+  color: brown;
+}
+
+.center {
+  margin: center;
+  width: 250px;
+  height: auto;
+  padding-top: 50px;
+}
